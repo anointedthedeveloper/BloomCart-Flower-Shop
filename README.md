@@ -21,28 +21,7 @@ Backend   : Node.js + Express
 Database  : MongoDB
 Auth      : JWT / Firebase Auth
 Payments  : Paystack / Flutterwave
-📁 Project Structure
-bloomcart/
-│
-├── client/                # Frontend (Next.js)
-│   ├── pages/
-│   ├── components/
-│   ├── styles/
-│   └── utils/
-│
-├── server/                # Backend (Node.js)
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── middleware/
-│   └── config/
-│
-├── public/
-│   └── screenshots/
-│
-├── .env
-├── package.json
-└── README.md
+
 ⚙️ Installation & Setup
 1. Clone the Repository
 git clone https://github.com/anointedthedeveloper/bloomcart.git
